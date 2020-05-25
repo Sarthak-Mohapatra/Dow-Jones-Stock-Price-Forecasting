@@ -37,3 +37,6 @@ The companies/ stocks that make up the DJIA are as follows:
  - Verizon (NYSE:VZ)
  - Visa (NYSE:V)
  - Wal-Mart (NYSE:WMT)
+ 
+ ## Status 
+ Project is *in progress*
